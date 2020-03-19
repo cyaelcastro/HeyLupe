@@ -1,0 +1,113 @@
+
+\data\
+ngram 1=26
+ngram 2=38
+ngram 3=36
+
+\1-grams:
+-99	<s>	-0.3236557
+-0.7941537	</s>
+-1.750065	cuál	-0.2393349
+-1.449035	que	-0.2393349
+-1.515849	está	-0.212271
+-1.750065	es	-0.2393349
+-1.750065	calor	-0.2393349
+-1.750065	tan	-0.2393349
+-1.816879	abierta	-0.212271
+-1.816879	cerrada	-0.212271
+-1.716657	enciende	-0.2538037
+-1.415627	apagar	-0.4129383
+-1.716657	encender	-0.2538037
+-0.7865337	la	-0.3714116
+-1.750065	hace	-0.2393349
+-1.750065	frio	-0.2393349
+-1.750065	temperatura	-0.2393349
+-1.750065	esta	-0.2393349
+-1.515849	puerta	-0.3542288
+-1.161824	del	-0.5852883
+-1.415627	lámpara	-0.4129383
+-1.161824	garaje	-0.5852883
+-1.239536	de	-0.3406194
+-1.415627	luz	-0.4129383
+-1.415627	sala	-0.2538037
+-1.716657	estar	-0.2538037
+
+\2-grams:
+-1.176586	<s> cuál	-0.2393349
+-0.8755564	<s> que	-0.2393349
+-0.942371	<s> está	-0.212271
+-1.143179	<s> enciende	-0.2538037
+-0.8421492	<s> apagar	-0.4129383
+-1.143179	<s> encender	-0.2538037
+-0.3625851	cuál es	-0.2393349
+-0.6534785	que calor	-0.2393349
+-0.6534785	que tan	-0.2393349
+-0.6932292	está abierta	-0.212271
+-0.6932292	está cerrada	-0.212271
+-0.2857578	es la	-0.2393349
+-0.3625851	calor hace	-0.2393349
+-0.3625851	tan frio	-0.2393349
+-0.3125633	abierta la	-0.212271
+-0.3125633	cerrada la	-0.212271
+-0.2727088	enciende la	-0.2538037
+-0.1695713	apagar la	-0.2538037
+-0.2727088	encender la	-0.2538037
+-1.154432	la temperatura	-0.2393349
+-0.9202167	la puerta	-0.3542288
+-0.8199949	la lámpara	-0.4129383
+-0.8199949	la luz	-0.4129383
+-0.8199949	la sala	-0.2538038
+-0.2871341	hace </s>
+-0.3625851	frio esta	-0.2393349
+-0.2871341	temperatura </s>
+-0.2871341	esta </s>
+-0.2305341	puerta del	-0.3542288
+-0.1202975	del garaje	-0.5852883
+-0.1966534	lámpara de	-0.4129383
+-0.1068504	garaje </s>
+-0.3595245	de la	-0.4129383
+-0.7213557	de estar	-0.2538037
+-0.1936844	luz del	-0.4129383
+-0.507482	sala </s>
+-0.596206	sala de	-0.2538037
+-0.2740005	estar </s>
+
+\3-grams:
+-0.1714956	<s> cuál es
+-0.4687355	<s> que calor
+-0.4687355	<s> que tan
+-0.498094	<s> está abierta
+-0.498094	<s> está cerrada
+-0.1307315	<s> enciende la
+-0.05794759	<s> apagar la
+-0.1307315	<s> encender la
+-0.141371	cuál es la
+-0.1714956	que calor hace
+-0.1714956	que tan frio
+-0.1641363	está abierta la
+-0.1641363	está cerrada la
+-0.3334218	es la temperatura
+-0.1419393	calor hace </s>
+-0.1714956	tan frio esta
+-0.3369321	abierta la puerta
+-0.3369321	cerrada la puerta
+-0.278243	enciende la lámpara
+-0.5147702	apagar la lámpara
+-0.5147702	apagar la luz
+-0.278243	encender la luz
+-0.1419393	la temperatura </s>
+-0.08735146	la puerta del
+-0.06586535	la lámpara de
+-0.0650143	la luz del
+-0.4039007	la sala </s>
+-0.4406539	la sala de
+-0.1419393	frio esta </s>
+-0.04916036	puerta del garaje
+-0.02533755	del garaje </s>
+-0.1065477	lámpara de la
+-0.172588	de la sala
+-0.1312503	de estar </s>
+-0.0426282	luz del garaje
+-0.2608639	sala de estar
+
+\end\
