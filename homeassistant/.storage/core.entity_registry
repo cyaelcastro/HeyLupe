@@ -16,6 +16,38 @@
                 "supported_features": 0,
                 "unique_id": "updater",
                 "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.yael_castro",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Yael Castro",
+                "platform": "person",
+                "supported_features": 0,
+                "unique_id": "yael_castro",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": "863339439a45409f9c86988977355518",
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "weather.home",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Home",
+                "platform": "met",
+                "supported_features": 0,
+                "unique_id": "home",
+                "unit_of_measurement": null
             }
         ]
     },
