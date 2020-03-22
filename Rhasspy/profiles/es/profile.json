@@ -1,0 +1,18 @@
+{
+    "microphone": {
+        "arecord": {
+            "device": "hw:CARD=C320M,DEV=0"
+        },
+        "pyaudio": {
+            "device": "2"
+        },
+        "system": "arecord"
+    },
+    "sounds":{
+        "aplay":{
+            "device": "sysdefault:CARD=C320M"
+        },
+        "system": "aplay"
+    }
+
+}
