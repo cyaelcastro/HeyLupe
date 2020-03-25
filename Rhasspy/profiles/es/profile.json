@@ -1,4 +1,11 @@
 {
+    "handle": {
+        "system": "hass"
+    },
+    "home_assistant": {
+        "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJlOGJiZjQxNGNmZjk0NDIwOGU5OTIzYWQ5NTUyODdlMyIsImlhdCI6MTU4NTAxODE4NiwiZXhwIjoxOTAwMzc4MTg2fQ.mmmpCXgXG7nspZRpJr4us0qjojcenebxh7cfNqU6D2s",
+        "url": "http://192.168.15.106:8123"
+    },
     "microphone": {
         "arecord": {
             "device": "default:CARD=C320M"
