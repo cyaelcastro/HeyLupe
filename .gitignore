@@ -13,3 +13,6 @@ homeassistant/known_devices.yaml
 homeassistant/ip_bans.yaml
 homeassistant/secrets.yaml
 homeassistant/www/
+
+#Visual Studio Code
+.vscode/
