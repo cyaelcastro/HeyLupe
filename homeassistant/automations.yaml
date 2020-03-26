@@ -1,1 +1,11 @@
-[]
+# Lupe introduce herself
+- trigger:
+    platform: event
+    event_type: rhasspy_Presentacion
+  action:
+    - service: rest_command.presentacion
+- trigger:
+    platform: event
+    event_type: rhasspy_Chiste
+  action:
+    - service: rest_command.chiste

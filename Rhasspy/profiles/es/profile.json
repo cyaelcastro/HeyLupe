@@ -20,6 +20,12 @@
             "device": "sysdefault:CARD=C320M"
         }
     },
+    "text_to_speech": {
+        "picotts": {
+            "language": "es-ES"
+        },
+        "system": "picotts"
+    },
     "wake": {
         "porcupine": {
             "sensitivity": "0.6"
