@@ -1,12 +1,30 @@
-presentacion:
+saludo:
   url: http://192.168.15.106:12101/api/text-to-speech
   method: POST
   payload: 'Hola humano, mi nombre es Lupe'
+  content_type:  'text/plain; charset=UTF-8'
+  verify_ssl: false
+presentacion:
+  url: http://192.168.15.106:12101/api/text-to-speech
+  method: POST
+  payload: 'Soy el robot a cargo del centro de visitantes, estoy programada para resolver las dudas que tengas, tambien hago café'
+  content_type:  'text/plain; charset=UTF-8'
+  verify_ssl: false
+cafe:
+  url: http://192.168.15.106:12101/api/text-to-speech
+  method: POST
+  payload: 'Brrrrrrrr... ¿Acaso parezco una cafetera?'
   content_type:  'text/plain; charset=UTF-8'
   verify_ssl: false
 chiste:
   url: http://192.168.15.106:12101/api/text-to-speech
   method: POST
   payload: '¿Cómo estornuda un tomate? ¡¡¡Catsúp!!!!!'
+  content_type:  'text/plain; charset=UTF-8'
+  verify_ssl: false
+despedida:
+  url: http://192.168.15.106:12101/api/text-to-speech
+  method: POST
+  payload: 'Que la fuerza te acompañe'
   content_type:  'text/plain; charset=UTF-8'
   verify_ssl: false

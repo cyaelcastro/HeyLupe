@@ -1,11 +1,15 @@
 abierta a b i e r t a
+acerca a z e r k a
+adios a d i o s
 algo a l g o
 apagar a p a g a r
 broma b r o m a
+café k a f e
 calor k a l o r
 cerrada z e r r a d a
 chiste ch i s t e
 cuenta k u e n t a
+cuentales k u e n t a l e s
 cuál k u a l
 de d e
 del d e l
@@ -13,6 +17,7 @@ di d i
 echate e ch a t e
 encender e n z e n d e r
 enciende e n z i e n d e
+eres? e r e s
 es e s
 esta e s t a
 estar e s t a r
@@ -21,10 +26,17 @@ frio f r i o
 garaje g a r a j e
 gracioso g r a z i o s o
 hace a z e
+hasta a s t a
+haz a z
 hola o l a
 la l a
+luego l u e g o
 luz l u z
 lámpara l a m p a r a
+nos n o s
+platica p l a t i k a
+prepara p r e p a r a
+preséntate p r e s e n t a t e
 puerta p u e r t a
 que k e
 sala s a l a
@@ -32,6 +44,9 @@ saluda s a l u d a
 tal t a l
 tan t a n
 temperatura t e m p e r a t u r a
+ti t i
 un u n
 una u n a
-preséntate p r e s e n t a t e
+vemos b e m o s
+vista b i s t a
+¿quién k i e n

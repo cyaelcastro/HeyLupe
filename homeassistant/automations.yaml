@@ -1,11 +1,26 @@
 # Lupe introduce herself
 - trigger:
     platform: event
+    event_type: rhasspy_Saludo
+  action:
+    - service: rest_command.saludo
+- trigger:
+    platform: event
     event_type: rhasspy_Presentacion
   action:
     - service: rest_command.presentacion
 - trigger:
     platform: event
+    event_type: rhasspy_Cafe
+  action:
+    - service: rest_command.cafe
+- trigger:
+    platform: event
     event_type: rhasspy_Chiste
   action:
     - service: rest_command.chiste
+- trigger:
+    platform: event
+    event_type: rhasspy_Despedida
+  action:
+    - service: rest_command.despedida
