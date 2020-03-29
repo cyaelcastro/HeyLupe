@@ -1,0 +1,14 @@
+saludo_script:
+  sequence:
+    # This is written using the Script Syntax
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/CabezaIzquierda
+        payload: 1
+    - delay: '00:00:15'
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/BrazoIzquierdo
+        payload: 1
+      
+

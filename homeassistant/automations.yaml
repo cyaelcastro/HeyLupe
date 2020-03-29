@@ -4,6 +4,7 @@
     event_type: rhasspy_Saludo
   action:
     - service: rest_command.saludo
+    - service: script.saludo_script
 - trigger:
     platform: event
     event_type: rhasspy_Presentacion
