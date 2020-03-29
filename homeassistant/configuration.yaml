@@ -15,3 +15,6 @@ automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
 rest_command: !include rest_command.yaml
+
+mqtt: 
+  broker: 192.168.15.106
