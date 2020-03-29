@@ -10,5 +10,111 @@ saludo_script:
       data: 
         topic: amikoo/BrazoIzquierdo
         payload: 1
-      
-
+#Scripts based on https://github.com/Reyes-fred/Amikoo/blob/master/Edison/Node/amikoo.edison
+#Run reset all after any other movement script
+resetall_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/resetall
+        payload: 1
+#Left arm movements
+leftup_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/leftup
+        payload: 1
+leftdown_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/leftdown
+        payload: 1
+leftfold_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/leftfold
+        payload: 1
+leftunfold_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/leftunfold
+        payload: 1
+#Right arm movements
+rightup_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/rightup
+        payload: 1
+rightdown_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/rightdown
+        payload: 1
+rightfold_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/rightfold
+        payload: 1
+rightunfold_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/rightunfold
+        payload: 1
+#Head movements
+headleft_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/headleft
+        payload: 1
+headright_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/headright
+        payload: 1
+#Robot movements
+moveleft_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/moveleft
+        payload: 1
+moveright_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/moveright
+        payload: 1
+moveforward_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/moveforward
+        payload: 1
+movebackward_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/movebackward
+        payload: 1
+movestop_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/movestop
+        payload: 1
+#Miscellaneous (No seran soportados en esta version)
+#amikoo/bienvenida
+#amikoo/agradece
+#amikoo/dance
+#amikoo/creador
+#amikoo/norte
