@@ -27,6 +27,11 @@
     - service: script.dance_script
 - trigger:
     platform: event
+    event_type: rhasspy_Microprocesador
+  action:
+    - service: rest_command.microprocesador
+- trigger:
+    platform: event
     event_type: rhasspy_Despedida
   action:
     - service: rest_command.despedida

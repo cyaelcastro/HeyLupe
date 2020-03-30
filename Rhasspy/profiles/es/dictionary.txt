@@ -3,6 +3,8 @@ acerca a z e r k a
 adios a d i o s
 algo a l g o
 apagar a p a g a r
+baila b a i l a
+bailar? b a i l a r
 bote b o t e
 broma b r o m a
 café k a f e
@@ -25,26 +27,34 @@ esqueleto e s k e l e t o
 esta e s t a
 estar e s t a r
 está e s t a
+explica e x p l i k a
 frio f r i o
 garaje g a r a j e
 gracioso g r a z i o s o
+habla a b l a
 hace a z e
 hasta a s t a
 haz a z
 hola o l a
 la l a
+los l o s
 luego l u e g o
 luz l u z
 lámpara l a m p a r a
+microprocesador m i k r o p r o z e s a d o r
+microprocesadores m i k r o p r o z e s a d o r e s
 mueve m u e b e
 nos n o s
 platica p l a t i k a
 prepara p r e p a r a
 preséntate p r e s e n t a t e
+procesador p r o z e s a d o r
+procesadores p r o z e s a d o r e s
 puerta p u e r t a
 que k e
 sala s a l a
 saluda s a l u d a
+son s o n
 tal t a l
 tan t a n
 temperatura t e m p e r a t u r a
@@ -53,7 +63,8 @@ un u n
 una u n a
 vemos b e m o s
 vista b i s t a
-¿quién k i e n
-baila b a i l a
-bailar? b a i l a r
 ¿puedes p u e d e s
+¿que k e
+¿quién k i e n
+¿sabes s a b e s
+¿qué k e

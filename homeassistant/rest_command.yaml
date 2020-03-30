@@ -22,6 +22,12 @@ chiste:
   payload: '¿Cómo estornuda un tomate? ¡¡¡Catsúp!!!!!'
   content_type:  'text/plain; charset=UTF-8'
   verify_ssl: false
+microprocesador:
+  url: http://192.168.15.106:12101/api/text-to-speech
+  method: POST
+  payload: 'Es el cerebro que controla una computadora, por ejemplo la que me hace funcionar. ¿Sabían que Intel hace los procesadores más complejos del mundo? Y nisiquiera son más grandes que las uñas de sus dedos'
+  content_type:  'text/plain; charset=UTF-8'
+  verify_ssl: false
 despedida:
   url: http://192.168.15.106:12101/api/text-to-speech
   method: POST
