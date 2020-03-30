@@ -1,243 +1,269 @@
 
 \data\
-ngram 1=54
-ngram 2=92
-ngram 3=84
+ngram 1=61
+ngram 2=103
+ngram 3=92
 
 \1-grams:
--99	<s>	-0.3718975
--0.6101943	</s>
--2.145996	cuál	-0.2713203
--1.668875	que	-0.2713203
--1.875767	está	-0.2572814
--2.145996	hola	-0.2713203
--2.145996	saluda	-0.2713203
--2.130595	preséntate	-0.2785433
--2.130595	¿quién	-0.2785433
--2.130595	cuentales	-0.2785433
--2.130595	platica	-0.2785433
--2.145996	prepara	-0.2713203
--2.145996	haz	-0.2713203
--1.668875	café	-0.5566968
--1.625753	cuenta	-0.291888
--1.625753	di	-0.291888
--1.625753	echate	-0.291888
--1.500814	chiste	-0.684249
--2.130595	adios	-0.2785433
--2.130595	nos	-0.2785433
--1.829565	hasta	-0.2785433
--2.145996	es	-0.2713203
--2.145996	calor	-0.2713203
--2.145996	tan	-0.2713203
--2.176797	abierta	-0.2572814
--2.176797	cerrada	-0.2572814
--2.130595	enciende	-0.2785433
--1.829565	apagar	-0.4468726
--2.130595	encender	-0.2785433
--2.145996	tal	-0.2713203
--2.130595	eres?	-0.2785433
--1.431625	de	-0.3976736
--2.130595	acerca	-0.2785433
--2.130595	vemos	-0.2785433
--1.140998	la	-0.3914647
--2.130595	luego	-0.2785433
--2.145996	hace	-0.2713203
--2.145996	frio	-0.2713203
--1.829565	ti	-0.4468726
--1.625753	un	-0.5882738
--1.625753	una	-0.5882738
--1.625753	algo	-0.5882738
--2.130595	vista	-0.2785433
--2.145996	temperatura	-0.2713203
--2.145996	esta	-0.2713203
--1.625753	broma	-0.5882738
--1.625753	gracioso	-0.5882738
--1.875767	puerta	-0.4177524
--1.551022	del	-0.6449161
--1.829565	lámpara	-0.4468726
--1.551022	garaje	-0.6449161
--1.829565	luz	-0.4468726
--1.829565	sala	-0.2785433
--2.130595	estar	-0.2785433
+-99	<s>	-0.3708686
+-0.6007477	</s>
+-2.184353	cuál	-0.2740823
+-1.707232	que	-0.2740823
+-1.911163	está	-0.2612755
+-2.184353	hola	-0.2740823
+-2.184353	saluda	-0.2740823
+-2.170433	preséntate	-0.2806522
+-2.170433	¿quién	-0.2806522
+-2.170433	cuentales	-0.2806522
+-2.170433	platica	-0.2806522
+-2.184353	prepara	-0.2740823
+-2.184353	haz	-0.2740823
+-1.707232	café	-0.5609843
+-1.668257	cuenta	-0.2927585
+-1.668257	di	-0.2927585
+-1.668257	echate	-0.2927585
+-1.543318	chiste	-0.6856589
+-2.170433	adios	-0.2806522
+-2.170433	nos	-0.2806522
+-1.869403	hasta	-0.2806522
+-2.170433	¿puedes	-0.2806522
+-2.170433	baila	-0.2806522
+-1.869403	mueve	-0.4497327
+-2.184353	es	-0.2740823
+-2.184353	calor	-0.2740823
+-2.184353	tan	-0.2740823
+-2.212192	abierta	-0.2612755
+-2.212192	cerrada	-0.2612755
+-2.170433	enciende	-0.2806522
+-1.869403	apagar	-0.4497327
+-2.170433	encender	-0.2806522
+-2.184353	tal	-0.2740823
+-2.170433	eres?	-0.2806522
+-1.471463	de	-0.4003435
+-2.170433	acerca	-0.2806522
+-2.170433	vemos	-0.2806522
+-1.179868	la	-0.3946865
+-2.170433	luego	-0.2806522
+-2.170433	bailar?	-0.2806522
+-1.869403	el	-0.2806522
+-2.184353	hace	-0.2740823
+-2.184353	frio	-0.2740823
+-1.869403	ti	-0.4497326
+-1.668257	un	-0.5895929
+-1.668257	una	-0.5895929
+-1.668257	algo	-0.5895929
+-2.170433	vista	-0.2806522
+-2.170433	bote	-0.2806522
+-2.170433	esqueleto	-0.2806522
+-2.184353	temperatura	-0.2740823
+-2.184353	esta	-0.2740823
+-1.668257	broma	-0.5895929
+-1.668257	gracioso	-0.5895929
+-1.911163	puerta	-0.4232632
+-1.588751	del	-0.6499921
+-1.869403	lámpara	-0.4497327
+-1.588751	garaje	-0.6499921
+-1.869403	luz	-0.4497327
+-1.869403	sala	-0.2806522
+-2.170433	estar	-0.2806522
 
 \2-grams:
--1.703619	<s> cuál	-0.2713203
--1.226497	<s> que	-0.2713203
--1.43339	<s> está	-0.2572814
--1.703619	<s> hola	-0.2713203
--1.703619	<s> saluda	-0.2713203
--1.688218	<s> preséntate	-0.2785433
--1.688218	<s> ¿quién	-0.2785433
--1.688218	<s> cuentales	-0.2785433
--1.688218	<s> platica	-0.2785433
--1.703619	<s> prepara	-0.2713203
--1.703619	<s> haz	-0.2713203
--1.587433	<s> café	-0.2713203
--1.183376	<s> cuenta	-0.291888
--1.183376	<s> di	-0.291888
--1.183376	<s> echate	-0.291888
--1.496116	<s> chiste	-0.291888
--1.688218	<s> adios	-0.2785433
--1.688218	<s> nos	-0.2785433
--1.387188	<s> hasta	-0.2785433
--1.688218	<s> enciende	-0.2785433
--1.387188	<s> apagar	-0.4468726
--1.688218	<s> encender	-0.2785433
--0.329361	cuál es	-0.2713203
--0.7994461	que calor	-0.2713203
--0.7994461	que tan	-0.2713203
--0.7994461	que tal	-0.2713203
--0.6436208	está abierta	-0.2572813
--0.6436208	está cerrada	-0.2572813
--0.2247792	hola </s>
--0.2247792	saluda </s>
--0.2199498	preséntate </s>
--0.3211836	¿quién eres?	-0.2785433
--0.3072234	cuentales de	-0.2785433
--0.3211836	platica acerca	-0.2785433
--0.3223249	prepara café	-0.2713203
--0.3223249	haz café	-0.2713203
--0.1020606	café </s>
--0.756443	cuenta un	-0.291888
--0.756443	cuenta una	-0.291888
--0.756443	cuenta algo	-0.291888
--0.756443	di un	-0.291888
--0.756443	di una	-0.291888
--0.756443	di algo	-0.291888
--0.756443	echate un	-0.291888
--0.756443	echate una	-0.291888
--0.756443	echate algo	-0.291888
--0.07372517	chiste </s>
--0.2199498	adios </s>
--0.3211836	nos vemos	-0.2785433
--0.5610247	hasta la	-0.2785433
--0.6186812	hasta luego	-0.2785433
--0.2981767	es la	-0.2713203
--0.329361	calor hace	-0.2713203
--0.329361	tan frio	-0.2713203
--0.3124915	abierta la	-0.2572814
--0.3124915	cerrada la	-0.2572814
--0.2911642	enciende la	-0.2785433
--0.1749293	apagar la	-0.2785433
--0.2911642	encender la	-0.2785433
--0.2247792	tal </s>
--0.2199498	eres? </s>
--0.5705215	de la	-0.4468726
--0.6093689	de ti	-0.4468726
--0.9103989	de estar	-0.2785433
--0.3072234	acerca de	-0.2785433
--0.2199498	vemos </s>
--1.194875	la vista	-0.2785433
--1.210275	la temperatura	-0.2713203
--0.9400466	la puerta	-0.4177524
--0.893845	la lámpara	-0.4468726
--0.893845	la luz	-0.4468726
--0.893845	la sala	-0.2785433
--0.2199498	luego </s>
--0.2247792	hace </s>
--0.329361	frio esta	-0.2713203
--0.1364934	ti </s>
--0.1248912	un chiste	-0.5882738
--0.1260718	una broma	-0.5882738
--0.1260718	algo gracioso	-0.5882738
--0.2199498	vista </s>
--0.2247792	temperatura </s>
--0.2247792	esta </s>
--0.09406635	broma </s>
--0.09406635	gracioso </s>
--0.2016371	puerta del	-0.4177524
--0.107983	del garaje	-0.6449161
--0.1831951	lámpara de	-0.4468726
--0.0814098	garaje </s>
--0.1853057	luz del	-0.4468726
--0.4366202	sala </s>
--0.5914115	sala de	-0.2785433
--0.2199498	estar </s>
+-1.750441	<s> cuál	-0.2740823
+-1.27332	<s> que	-0.2740823
+-1.477251	<s> está	-0.2612755
+-1.750441	<s> hola	-0.2740823
+-1.750441	<s> saluda	-0.2740823
+-1.736522	<s> preséntate	-0.2806522
+-1.736522	<s> ¿quién	-0.2806522
+-1.736522	<s> cuentales	-0.2806522
+-1.736522	<s> platica	-0.2806522
+-1.750441	<s> prepara	-0.2740823
+-1.750441	<s> haz	-0.2740823
+-1.632008	<s> café	-0.2740823
+-1.234345	<s> cuenta	-0.2927584
+-1.234345	<s> di	-0.2927584
+-1.234345	<s> echate	-0.2927584
+-1.544071	<s> chiste	-0.2927585
+-1.736522	<s> adios	-0.2806522
+-1.736522	<s> nos	-0.2806522
+-1.435492	<s> hasta	-0.2806522
+-1.736522	<s> ¿puedes	-0.2806522
+-1.736522	<s> baila	-0.2806522
+-1.435492	<s> mueve	-0.4497327
+-1.736522	<s> enciende	-0.2806522
+-1.435492	<s> apagar	-0.4497326
+-1.736522	<s> encender	-0.2806522
+-0.3265437	cuál es	-0.2740823
+-0.7973009	que calor	-0.2740823
+-0.7973009	que tan	-0.2740823
+-0.7973009	que tal	-0.2740823
+-0.6394126	está abierta	-0.2612755
+-0.6394126	está cerrada	-0.2612755
+-0.2208388	hola </s>
+-0.2208388	saluda </s>
+-0.2165384	preséntate </s>
+-0.3191939	¿quién eres?	-0.2806522
+-0.3065576	cuentales de	-0.2806521
+-0.3191939	platica acerca	-0.2806522
+-0.3201796	prepara café	-0.2740823
+-0.3201796	haz café	-0.2740823
+-0.1001202	café </s>
+-0.7584507	cuenta un	-0.2927585
+-0.7584507	cuenta una	-0.2927585
+-0.7584507	cuenta algo	-0.2927585
+-0.7584507	di un	-0.2927585
+-0.7584507	di una	-0.2927585
+-0.7584507	di algo	-0.2927585
+-0.7584507	echate un	-0.2927585
+-0.7584507	echate una	-0.2927585
+-0.7584507	echate algo	-0.2927585
+-0.07289289	chiste </s>
+-0.2165384	adios </s>
+-0.3191939	nos vemos	-0.2806522
+-0.5644388	hasta la	-0.2806522
+-0.6170302	hasta luego	-0.2806522
+-0.3191939	¿puedes bailar?	-0.2806522
+-0.2165384	baila </s>
+-0.1872444	mueve el	-0.2806521
+-0.2983003	es la	-0.2740823
+-0.3265437	calor hace	-0.2740823
+-0.3265437	tan frio	-0.2740823
+-0.3113284	abierta la	-0.2612755
+-0.3113284	cerrada la	-0.2612755
+-0.2919088	enciende la	-0.2806522
+-0.1749428	apagar la	-0.2806522
+-0.2919088	encender la	-0.2806522
+-0.2208388	tal </s>
+-0.2165384	eres? </s>
+-0.5732076	de la	-0.4497327
+-0.6086124	de ti	-0.4497327
+-0.9096423	de estar	-0.2806522
+-0.3065576	acerca de	-0.2806521
+-0.2165384	vemos </s>
+-1.195641	la vista	-0.2806522
+-1.20956	la temperatura	-0.2740823
+-0.9363698	la puerta	-0.4232632
+-0.8946108	la lámpara	-0.4497326
+-0.8946108	la luz	-0.4497327
+-0.8946108	la sala	-0.2806521
+-0.2165384	luego </s>
+-0.2165384	bailar? </s>
+-0.6170302	el bote	-0.2806522
+-0.6170302	el esqueleto	-0.2806522
+-0.2208388	hace </s>
+-0.3265437	frio esta	-0.2740823
+-0.1343071	ti </s>
+-0.1248907	un chiste	-0.5895928
+-0.1259579	una broma	-0.5895929
+-0.1259579	algo gracioso	-0.5895929
+-0.2165384	vista </s>
+-0.2165384	bote </s>
+-0.2165384	esqueleto </s>
+-0.2208388	temperatura </s>
+-0.2208388	esta </s>
+-0.09300047	broma </s>
+-0.09300047	gracioso </s>
+-0.1990193	puerta del	-0.4232632
+-0.1068516	del garaje	-0.6499921
+-0.1824626	lámpara de	-0.4497327
+-0.07973981	garaje </s>
+-0.1843425	luz del	-0.4497327
+-0.4325131	sala </s>
+-0.5922924	sala de	-0.2806522
+-0.2165384	estar </s>
 
 \3-grams:
--0.1454552	<s> cuál es
--0.6200968	<s> que calor
--0.6200968	<s> que tan
--0.6200968	<s> que tal
--0.4570061	<s> está abierta
--0.4570061	<s> está cerrada
--0.1058618	<s> hola </s>
--0.1058618	<s> saluda </s>
--0.1019574	<s> preséntate </s>
--0.1397962	<s> ¿quién eres?
--0.1349039	<s> cuentales de
--0.1397962	<s> platica acerca
--0.1429755	<s> prepara café
--0.1429755	<s> haz café
--0.05165065	<s> café </s>
--0.5975849	<s> cuenta un
--0.5975849	<s> cuenta una
--0.5975849	<s> cuenta algo
--0.5975849	<s> di un
--0.5975849	<s> di una
--0.5975849	<s> di algo
--0.5975849	<s> echate un
--0.5975849	<s> echate una
--0.5975849	<s> echate algo
--0.03608304	<s> chiste </s>
--0.1019574	<s> adios </s>
--0.1397962	<s> nos vemos
--0.4186165	<s> hasta la
--0.4395979	<s> hasta luego
--0.1291491	<s> enciende la
--0.05477158	<s> apagar la
--0.1291491	<s> encender la
--0.1342662	cuál es la
--0.1454552	que calor hace
--0.1454552	que tan frio
--0.1058618	que tal </s>
--0.1449035	está abierta la
--0.1449035	está cerrada la
--0.1019574	¿quién eres? </s>
--0.2197727	cuentales de ti
--0.1349039	platica acerca de
--0.05165065	prepara café </s>
--0.05165065	haz café </s>
--0.05929292	cuenta un chiste
--0.0598109	cuenta una broma
--0.0598109	cuenta algo gracioso
--0.05929292	di un chiste
--0.0598109	di una broma
--0.0598109	di algo gracioso
--0.05929292	echate un chiste
--0.0598109	echate una broma
--0.0598109	echate algo gracioso
--0.1019574	nos vemos </s>
--0.2949509	hasta la vista
--0.1019574	hasta luego </s>
--0.3031283	es la temperatura
--0.1058618	calor hace </s>
--0.1454552	tan frio esta
--0.2920098	abierta la puerta
--0.2920098	cerrada la puerta
--0.2670703	enciende la lámpara
--0.5171948	apagar la lámpara
--0.5171948	apagar la luz
--0.2670703	encender la luz
--0.1622502	de la sala
--0.04401491	de ti </s>
--0.1019574	de estar </s>
--0.2197727	acerca de ti
--0.1019574	la vista </s>
--0.1058618	la temperatura </s>
--0.06648304	la puerta del
--0.05699609	la lámpara de
--0.05755918	la luz del
--0.3671435	la sala </s>
--0.4298951	la sala de
--0.1058618	frio esta </s>
--0.01786078	un chiste </s>
--0.02239364	una broma </s>
--0.02239364	algo gracioso </s>
--0.03816565	puerta del garaje
--0.01714895	del garaje </s>
--0.131534	lámpara de la
--0.03558614	luz del garaje
--0.2690949	sala de estar
+-0.1433802	<s> cuál es
+-0.6182701	<s> que calor
+-0.6182701	<s> que tan
+-0.6182701	<s> que tal
+-0.4537923	<s> está abierta
+-0.4537923	<s> está cerrada
+-0.1035068	<s> hola </s>
+-0.1035068	<s> saluda </s>
+-0.1000373	<s> preséntate </s>
+-0.1383117	<s> ¿quién eres?
+-0.1339039	<s> cuentales de
+-0.1383117	<s> platica acerca
+-0.1411489	<s> prepara café
+-0.1411489	<s> haz café
+-0.05038358	<s> café </s>
+-0.5980153	<s> cuenta un
+-0.5980153	<s> cuenta una
+-0.5980153	<s> cuenta algo
+-0.5980153	<s> di un
+-0.5980153	<s> di una
+-0.5980153	<s> di algo
+-0.5980153	<s> echate un
+-0.5980153	<s> echate una
+-0.5980153	<s> echate algo
+-0.03561865	<s> chiste </s>
+-0.1000373	<s> adios </s>
+-0.1383117	<s> nos vemos
+-0.4192466	<s> hasta la
+-0.4382355	<s> hasta luego
+-0.1383117	<s> ¿puedes bailar?
+-0.1000373	<s> baila </s>
+-0.05766695	<s> mueve el
+-0.1286892	<s> enciende la
+-0.0543922	<s> apagar la
+-0.1286892	<s> encender la
+-0.1333149	cuál es la
+-0.1433802	que calor hace
+-0.1433802	que tan frio
+-0.1035068	que tal </s>
+-0.1428996	está abierta la
+-0.1428996	está cerrada la
+-0.1000373	¿quién eres? </s>
+-0.2182279	cuentales de ti
+-0.1339039	platica acerca de
+-0.05038358	prepara café </s>
+-0.05038358	haz café </s>
+-0.05916552	cuenta un chiste
+-0.05963267	cuenta una broma
+-0.05963267	cuenta algo gracioso
+-0.05916552	di un chiste
+-0.05963267	di una broma
+-0.05963267	di algo gracioso
+-0.05916552	echate un chiste
+-0.05963267	echate una broma
+-0.05963267	echate algo gracioso
+-0.1000373	nos vemos </s>
+-0.2929607	hasta la vista
+-0.1000373	hasta luego </s>
+-0.1000373	¿puedes bailar? </s>
+-0.4382355	mueve el bote
+-0.4382355	mueve el esqueleto
+-0.3003105	es la temperatura
+-0.1035068	calor hace </s>
+-0.1433802	tan frio esta
+-0.2877634	abierta la puerta
+-0.2877634	cerrada la puerta
+-0.265381	enciende la lámpara
+-0.5160079	apagar la lámpara
+-0.5160079	apagar la luz
+-0.265381	encender la luz
+-0.1610112	de la sala
+-0.04308294	de ti </s>
+-0.1000373	de estar </s>
+-0.2182279	acerca de ti
+-0.1000373	la vista </s>
+-0.1035068	la temperatura </s>
+-0.06485441	la puerta del
+-0.0564021	la lámpara de
+-0.05690057	la luz del
+-0.3649603	la sala </s>
+-0.4294865	la sala de
+-0.1000373	el bote </s>
+-0.1000373	el esqueleto </s>
+-0.1035068	frio esta </s>
+-0.01761709	un chiste </s>
+-0.02209125	una broma </s>
+-0.02209125	algo gracioso </s>
+-0.03729952	puerta del garaje
+-0.01662295	del garaje </s>
+-0.1308722	lámpara de la
+-0.03500268	luz del garaje
+-0.2672029	sala de estar
 
 \end\

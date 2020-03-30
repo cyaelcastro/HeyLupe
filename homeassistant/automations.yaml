@@ -22,6 +22,11 @@
     - service: rest_command.chiste
 - trigger:
     platform: event
+    event_type: rhasspy_Baile
+  action:
+    - service: script.dance_script
+- trigger:
+    platform: event
     event_type: rhasspy_Despedida
   action:
     - service: rest_command.despedida

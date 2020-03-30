@@ -3,6 +3,7 @@ acerca a z e r k a
 adios a d i o s
 algo a l g o
 apagar a p a g a r
+bote b o t e
 broma b r o m a
 café k a f e
 calor k a l o r
@@ -15,10 +16,12 @@ de d e
 del d e l
 di d i
 echate e ch a t e
+el e l
 encender e n z e n d e r
 enciende e n z i e n d e
 eres? e r e s
 es e s
+esqueleto e s k e l e t o
 esta e s t a
 estar e s t a r
 está e s t a
@@ -33,6 +36,7 @@ la l a
 luego l u e g o
 luz l u z
 lámpara l a m p a r a
+mueve m u e b e
 nos n o s
 platica p l a t i k a
 prepara p r e p a r a
@@ -50,3 +54,6 @@ una u n a
 vemos b e m o s
 vista b i s t a
 ¿quién k i e n
+baila b a i l a
+bailar? b a i l a r
+¿puedes p u e d e s

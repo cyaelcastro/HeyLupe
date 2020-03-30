@@ -122,9 +122,15 @@ movestop_script:
       data: 
         topic: amikoo/movestop
         payload: 1
-#Miscellaneous (No seran soportados en esta version)
+
+#Miscellaneous (Algunos no seran soportados en esta version)
+dance_script:
+  sequence:
+    - service: mqtt.publish
+      data: 
+        topic: amikoo/dance
+        payload: 1
 #amikoo/bienvenida
 #amikoo/agradece
-#amikoo/dance
 #amikoo/creador
 #amikoo/norte
