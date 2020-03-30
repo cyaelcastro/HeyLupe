@@ -32,6 +32,11 @@
     - service: rest_command.microprocesador
 - trigger:
     platform: event
+    event_type: rhasspy_IA
+  action:
+    - service: rest_command.ia
+- trigger:
+    platform: event
     event_type: rhasspy_Despedida
   action:
     - service: rest_command.despedida

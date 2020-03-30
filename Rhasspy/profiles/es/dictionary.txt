@@ -3,6 +3,8 @@ acerca a z e r k a
 adios a d i o s
 algo a l g o
 apagar a p a g a r
+artificial a r t i f i z i a l
+artificial? a r t i f i z i a l
 baila b a i l a
 bailar? b a i l a r
 bote b o t e
@@ -36,6 +38,7 @@ hace a z e
 hasta a s t a
 haz a z
 hola o l a
+inteligencia i n t e l i j e n z i a
 la l a
 los l o s
 luego l u e g o
@@ -66,5 +69,5 @@ vista b i s t a
 ¿puedes p u e d e s
 ¿que k e
 ¿quién k i e n
-¿sabes s a b e s
 ¿qué k e
+¿sabes s a b e s

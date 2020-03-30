@@ -62,9 +62,12 @@ gracioso
 microprocesador
 procesador
 puerta
+inteligencia
 del
 lámpara
 ?
+artificial
+artificial?
 garaje
 luz
 sala
