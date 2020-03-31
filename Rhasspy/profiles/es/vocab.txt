@@ -22,6 +22,7 @@ mueve
 explica
 habla
 ¿qué
+¿para
 adios
 nos
 hasta
@@ -40,6 +41,8 @@ acerca
 bailar?
 el
 son
+se
+cosas
 vemos
 la
 luego
@@ -54,6 +57,7 @@ esqueleto
 los
 microprocesadores
 procesadores
+sirve
 vista
 temperatura
 esta
@@ -61,13 +65,19 @@ broma
 gracioso
 microprocesador
 procesador
+puede
+usa
+utiliza
 puerta
 inteligencia
+hacer
+lograr
 del
 lámpara
 ?
 artificial
 artificial?
+con
 garaje
 luz
 sala

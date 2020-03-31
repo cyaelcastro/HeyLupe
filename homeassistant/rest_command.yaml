@@ -34,6 +34,12 @@ ia:
   payload: 'Es llevar un pedazo de la inteligencia de las personas a las computadoras, usando matemáticas. Y en algunos casos es más facil de lo que creen'
   content_type:  'text/plain; charset=UTF-8'
   verify_ssl: false
+iauso:
+  url: http://192.168.15.106:12101/api/text-to-speech
+  method: POST
+  payload: 'Con la inteligencia artificial las computadoras pueden hacer decisiones, ayudar a las personas, o incluso hace a las computadoras ver, hablar, o escuchar, así como lo hago yo.'
+  content_type:  'text/plain; charset=UTF-8'
+  verify_ssl: false
 despedida:
   url: http://192.168.15.106:12101/api/text-to-speech
   method: POST

@@ -13,6 +13,8 @@ café k a f e
 calor k a l o r
 cerrada z e r r a d a
 chiste ch i s t e
+con k o n
+cosas k o s a s
 cuenta k u e n t a
 cuentales k u e n t a l e s
 cuál k u a l
@@ -35,11 +37,13 @@ garaje g a r a j e
 gracioso g r a z i o s o
 habla a b l a
 hace a z e
+hacer a z e r
 hasta a s t a
 haz a z
 hola o l a
 inteligencia i n t e l i j e n z i a
 la l a
+lograr l o g r a r
 los l o s
 luego l u e g o
 luz l u z
@@ -53,10 +57,13 @@ prepara p r e p a r a
 preséntate p r e s e n t a t e
 procesador p r o z e s a d o r
 procesadores p r o z e s a d o r e s
+puede p u e d e
 puerta p u e r t a
 que k e
 sala s a l a
 saluda s a l u d a
+se s e
+sirve s i r b e
 son s o n
 tal t a l
 tan t a n
@@ -64,6 +71,8 @@ temperatura t e m p e r a t u r a
 ti t i
 un u n
 una u n a
+usa u s a
+utiliza u t i l i z a
 vemos b e m o s
 vista b i s t a
 ¿puedes p u e d e s
@@ -71,3 +80,4 @@ vista b i s t a
 ¿quién k i e n
 ¿qué k e
 ¿sabes s a b e s
+¿para p a r a
