@@ -19,7 +19,7 @@ cafe:
 chiste:
   url: http://192.168.15.106:12101/api/text-to-speech
   method: POST
-  payload: '¿Cómo estornuda un tomate? ¡¡¡Catsúp!!!!!'
+  payload: "{{['¿Cómo estornuda un tomate? ¡¡¡Catsúp!!!!!','¿Cual es la fruta que más se rie? La naranja ja ja ja', '¿Qué le dijo un pato a otro pato en un partido de fútbol?. Estamos empatados', '¿Por qué el mar no se seca?. Porque no tiene toalla.','¿Qué hace una abeja en el gimnasio?. Zumba', 'Mamá, en la escuela me llaman despistado. Niño, esta no es tu casa.','¿Qué planeta va después de Marte?. Miércole'] | random}}"
   content_type:  'text/plain; charset=UTF-8'
   verify_ssl: false
 microprocesador:
