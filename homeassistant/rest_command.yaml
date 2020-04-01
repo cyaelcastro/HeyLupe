@@ -40,6 +40,12 @@ iauso:
   payload: 'Con la inteligencia artificial las computadoras pueden hacer decisiones, ayudar a las personas, o incluso hace a las computadoras ver, hablar, o escuchar, así como lo hago yo.'
   content_type:  'text/plain; charset=UTF-8'
   verify_ssl: false
+gdc:
+  url: http://192.168.15.106:12101/api/text-to-speech
+  method: POST
+  payload: 'En Guadalajara los ingenieros se encargan de revisar que los procesadores y demás productos de Intel funcionen bien. Realmente aquí no es una fábrica, es un centro de validación'
+  content_type:  'text/plain; charset=UTF-8'
+  verify_ssl: false
 despedida:
   url: http://192.168.15.106:12101/api/text-to-speech
   method: POST

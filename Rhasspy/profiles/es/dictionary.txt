@@ -3,6 +3,8 @@ acerca a z e r k a
 adios a d i o s
 algo a l g o
 apagar a p a g a r
+aqui a k i
+aquí a k i
 artificial a r t i f i z i a l
 artificial? a r t i f i z i a l
 baila b a i l a
@@ -23,6 +25,7 @@ del d e l
 di d i
 echate e ch a t e
 el e l
+en e n
 encender e n z e n d e r
 enciende e n z i e n d e
 eres? e r e s
@@ -34,13 +37,16 @@ está e s t a
 explica e x p l i k a
 frio f r i o
 garaje g a r a j e
+gdc y i d i s i
 gracioso g r a z i o s o
 habla a b l a
 hace a z e
+hacen a z e n
 hacer a z e r
 hasta a s t a
 haz a z
 hola o l a
+ingenieros i n j e n i e r o s
 inteligencia i n t e l i j e n z i a
 la l a
 lograr l o g r a r
@@ -60,6 +66,7 @@ procesadores p r o z e s a d o r e s
 puede p u e d e
 puerta p u e r t a
 que k e
+qué k e
 sala s a l a
 saluda s a l u d a
 se s e
@@ -75,9 +82,9 @@ usa u s a
 utiliza u t i l i z a
 vemos b e m o s
 vista b i s t a
+¿para p a r a
 ¿puedes p u e d e s
 ¿que k e
 ¿quién k i e n
 ¿qué k e
 ¿sabes s a b e s
-¿para p a r a

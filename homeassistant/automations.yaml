@@ -42,6 +42,11 @@
     - service: rest_command.iauso
 - trigger:
     platform: event
+    event_type: rhasspy_GDC
+  action:
+    - service: rest_command.gdc
+- trigger:
+    platform: event
     event_type: rhasspy_Despedida
   action:
     - service: rest_command.despedida

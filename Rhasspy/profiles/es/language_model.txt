@@ -1,411 +1,450 @@
 
 \data\
-ngram 1=86
-ngram 2=156
-ngram 3=156
+ngram 1=93
+ngram 2=171
+ngram 3=173
 
 \1-grams:
--99	<s>	-0.472924
--0.6921131	</s>
--2.527148	cuál	-0.2772423
--1.243698	que	-0.5865713
--2.250595	está	-0.2658644
--2.527148	hola	-0.2772422
--2.527148	saluda	-0.2772422
--2.514909	preséntate	-0.28306
--2.514909	¿quién	-0.28306
--2.514909	cuentales	-0.28306
--2.514909	platica	-0.28306
--2.527148	prepara	-0.2772423
--2.527148	haz	-0.2772423
--2.050027	café	-0.5658713
--1.714365	cuenta	-0.3894033
--2.015759	di	-0.2937489
--2.015759	echate	-0.2937489
--1.89082	chiste	-0.687261
--2.514909	¿puedes	-0.28306
--2.514909	baila	-0.28306
--2.213879	mueve	-0.4529922
--2.015031	¿sabes	-0.5916332
--1.651053	¿que	-0.4279916
--2.015031	explica	-0.5916332
--2.015031	habla	-0.5916331
--2.015031	¿qué	-0.5916332
--2.022053	¿para	-0.5864205
--2.514909	adios	-0.28306
--2.514909	nos	-0.28306
--2.213879	hasta	-0.28306
--1.264098	es	-0.8100485
--2.527148	calor	-0.2772423
--2.527148	tan	-0.2772423
--2.551625	abierta	-0.2658644
--2.551625	cerrada	-0.2658644
--2.514909	enciende	-0.28306
--2.213879	apagar	-0.4529921
--2.514909	encender	-0.28306
--2.527148	tal	-0.2772422
--2.514909	eres?	-0.28306
--1.603145	de	-0.3521754
--2.514909	acerca	-0.28306
--2.514909	bailar?	-0.28306
--2.213879	el	-0.28306
--2.187654	son	-0.470156
--1.897114	se	-0.3561124
--2.198144	cosas	-0.4632475
--2.514909	vemos	-0.28306
--1.282718	la	-0.5106348
--2.514909	luego	-0.28306
--2.527148	hace	-0.2772422
--2.527148	frio	-0.2772423
--2.213879	ti	-0.4529922
--1.375705	un	-0.7177148
--2.015759	una	-0.5910921
--2.015759	algo	-0.5910921
--2.514909	bote	-0.28306
--2.514909	esqueleto	-0.28306
--2.187654	los	-0.2958165
--2.187654	microprocesadores	-0.470156
--2.187654	procesadores	-0.470156
--2.499174	sirve	-0.2906665
--2.514909	vista	-0.28306
--2.527148	temperatura	-0.2772422
--2.527148	esta	-0.2772422
--2.015759	broma	-0.5910921
--2.015759	gracioso	-0.5910921
--1.789714	microprocesador	-0.5366011
--1.789714	procesador	-0.5366011
--1.897114	puede	-0.4632475
--2.499174	usa	-0.2906665
--2.499174	utiliza	-0.2906665
--2.250595	puerta	-0.4295713
--1.353046	inteligencia	-0.8847879
--2.198144	hacer	-0.4632475
--2.198144	lograr	-0.4632475
--1.930819	del	-0.6557862
--2.213879	lámpara	-0.4529922
--2.187654	?	-0.470156
--1.721023	artificial	-0.8271776
--1.596084	artificial?	-0.935644
--2.198144	con	-0.4632475
--1.930819	garaje	-0.6557862
--2.213879	luz	-0.4529922
--2.213879	sala	-0.28306
--2.514909	estar	-0.28306
+-99	<s>	-0.4904571
+-0.7000587	</s>
+-2.572434	cuál	-0.2784766
+-1.245088	que	-0.5715208
+-2.294576	está	-0.2676625
+-2.572434	hola	-0.2784766
+-2.572434	saluda	-0.2784766
+-2.560849	preséntate	-0.2839992
+-2.560849	¿quién	-0.2839992
+-2.560849	cuentales	-0.2839992
+-2.560849	platica	-0.2839992
+-2.572434	prepara	-0.2784766
+-2.572434	haz	-0.2784766
+-2.095313	café	-0.567775
+-1.7615	cuenta	-0.3898555
+-2.062874	di	-0.2941343
+-2.062874	echate	-0.2941343
+-1.937935	chiste	-0.6878837
+-2.560849	¿puedes	-0.2839992
+-2.560849	baila	-0.2839992
+-2.259819	mueve	-0.4542618
+-2.062186	¿sabes	-0.5921863
+-1.697994	¿que	-0.4285915
+-2.062186	explica	-0.5921863
+-2.062186	habla	-0.5921863
+-2.062186	¿qué	-0.5921863
+-2.068832	¿para	-0.58725
+-1.947203	qué	-0.680533
+-2.560849	adios	-0.2839992
+-2.560849	nos	-0.2839992
+-2.259819	hasta	-0.2839992
+-1.311129	es	-0.8107815
+-2.572434	calor	-0.2784766
+-2.572434	tan	-0.2784766
+-2.595606	abierta	-0.2676625
+-2.595606	cerrada	-0.2676625
+-2.560849	enciende	-0.2839992
+-2.259819	apagar	-0.4542618
+-2.560849	encender	-0.2839992
+-2.572434	tal	-0.2784766
+-2.560849	eres?	-0.2839992
+-1.649555	de	-0.3530029
+-2.560849	acerca	-0.2839992
+-2.560849	bailar?	-0.2839992
+-2.259819	el	-0.2839992
+-2.234992	son	-0.4705262
+-1.644515	se	-0.4628983
+-2.244923	cosas	-0.463982
+-2.248233	hacen	-0.4618119
+-2.560849	vemos	-0.2839992
+-1.328765	la	-0.5119155
+-2.560849	luego	-0.2839992
+-1.854829	hace	-0.4088597
+-2.572434	frio	-0.2784766
+-2.259819	ti	-0.4542618
+-1.422993	un	-0.7182087
+-2.062874	una	-0.5916749
+-2.062874	algo	-0.5916749
+-2.560849	bote	-0.2839992
+-2.560849	esqueleto	-0.2839992
+-1.940532	los	-0.3586249
+-2.234992	microprocesadores	-0.4705262
+-2.234992	procesadores	-0.4705262
+-2.545953	sirve	-0.291213
+-2.560849	vista	-0.2839992
+-2.572434	temperatura	-0.2784766
+-2.572434	esta	-0.2784766
+-2.062874	broma	-0.5916749
+-2.062874	gracioso	-0.5916749
+-1.837052	microprocesador	-0.536998
+-1.837052	procesador	-0.536998
+-1.943893	puede	-0.4639821
+-2.545953	usa	-0.291213
+-2.545953	utiliza	-0.291213
+-2.248233	aquí	-0.2895989
+-2.248233	ingenieros	-0.4618119
+-2.294576	puerta	-0.4320362
+-1.399825	inteligencia	-0.8857617
+-2.244923	hacer	-0.463982
+-2.244923	lograr	-0.463982
+-2.248233	aqui	-0.2895989
+-1.97582	del	-0.6580458
+-2.259819	lámpara	-0.4542618
+-2.234992	?	-0.4705262
+-1.767802	artificial	-0.8281305
+-1.642863	artificial?	-0.9366336
+-2.244923	con	-0.463982
+-2.072142	en	-0.5847985
+-1.97582	garaje	-0.6580458
+-2.259819	luz	-0.4542618
+-2.072142	gdc	-0.5847986
+-2.259819	sala	-0.2839992
+-2.560849	estar	-0.2839992
 
 \2-grams:
--1.970634	<s> cuál	-0.2772423
--1.097759	<s> que	-0.379546
--1.694081	<s> está	-0.2658644
--1.970634	<s> hola	-0.2772422
--1.970634	<s> saluda	-0.2772422
--1.958395	<s> preséntate	-0.28306
--1.958395	<s> ¿quién	-0.28306
--1.958395	<s> cuentales	-0.28306
--1.958395	<s> platica	-0.28306
--1.970634	<s> prepara	-0.2772423
--1.970634	<s> haz	-0.2772423
--1.896222	<s> café	-0.2772423
--1.157851	<s> cuenta	-0.3894034
--1.459244	<s> di	-0.2937489
--1.459244	<s> echate	-0.2937489
--1.829041	<s> chiste	-0.2937489
--1.958395	<s> ¿puedes	-0.28306
--1.958395	<s> baila	-0.28306
--1.657365	<s> mueve	-0.4529922
--1.458517	<s> ¿sabes	-0.5916331
--1.094539	<s> ¿que	-0.4279916
--1.458517	<s> explica	-0.5916331
--1.458517	<s> habla	-0.5916332
--1.458517	<s> ¿qué	-0.5916332
--1.465539	<s> ¿para	-0.5864205
--1.958395	<s> adios	-0.28306
--1.958395	<s> nos	-0.28306
--1.657365	<s> hasta	-0.2830601
--1.958395	<s> enciende	-0.28306
--1.657365	<s> apagar	-0.4529922
--1.958395	<s> encender	-0.28306
--0.3005084	cuál es	-0.2772423
--0.2874615	que es	-0.8331597
--1.405098	que calor	-0.2772423
--1.405098	que tan	-0.2772423
--1.405098	que tal	-0.2772422
--1.067681	que se	-0.2906665
--1.377124	que sirve	-0.2906665
--0.6374473	está abierta	-0.2658644
--0.6374473	está cerrada	-0.2658644
--0.237201	hola </s>
--0.237201	saluda </s>
--0.233022	preséntate </s>
--0.318334	¿quién eres?	-0.28306
--0.3081471	cuentales de	-0.28306
--0.318334	platica acerca	-0.28306
--0.3218858	prepara café	-0.2772423
--0.3218858	haz café	-0.2772423
--0.1059692	café </s>
--0.4954568	cuenta que	-0.5916332
--0.9364086	cuenta un	-0.2937489
--0.9891575	cuenta una	-0.2937489
--0.9891575	cuenta algo	-0.2937489
--0.7322291	di un	-0.2937489
--0.7727505	di una	-0.2937489
--0.7727505	di algo	-0.2937489
--0.7322291	echate un	-0.2937489
--0.7727505	echate una	-0.2937489
--0.7727505	echate algo	-0.2937489
--0.07764751	chiste </s>
--0.318334	¿puedes bailar?	-0.28306
--0.233022	baila </s>
--0.1872362	mueve el	-0.2830601
--0.1200239	¿sabes que	-0.5916332
--0.9616463	¿que es	-0.2906665
--0.7337735	¿que son	-0.470156
--0.7386003	¿que se	-0.4632475
--0.7442637	¿que cosas	-0.4632475
--0.1200239	explica que	-0.5916332
--0.1247586	habla de	-0.2941066
--0.1204079	¿qué es	-0.3896186
--0.1216965	¿para que	-0.3854738
--0.233022	adios </s>
--0.318334	nos vemos	-0.28306
--0.5741123	hasta la	-0.28306
--0.6179271	hasta luego	-0.28306
--1.266038	es la	-0.2772423
--0.2920764	es un	-0.7694269
--0.520006	es inteligencia	-0.5864205
--0.3247549	calor hace	-0.2772422
--0.3247549	tan frio	-0.2772423
--0.3132691	abierta la	-0.2658644
--0.3132691	cerrada la	-0.2658644
--0.2958018	enciende la	-0.28306
--0.1765255	apagar la	-0.28306
--0.2958018	encender la	-0.28306
--0.237201	tal </s>
--0.233022	eres? </s>
--0.7977291	de la	-0.4529922
--0.8574332	de ti	-0.4529922
--1.123825	de microprocesadores	-0.2958165
--1.123825	de procesadores	-0.2958165
--1.044331	de inteligencia	-0.2906665
--1.158463	de estar	-0.28306
--0.3081471	acerca de	-0.28306
--0.233022	bailar? </s>
--0.6179271	el bote	-0.28306
--0.6179271	el esqueleto	-0.28306
--0.1781745	son los	-0.2958166
--0.5446049	se puede	-0.2906665
--0.8499032	se usa	-0.2906665
--0.8499032	se utiliza	-0.2906665
--0.1803194	cosas puede	-0.2906665
--0.233022	vemos </s>
--1.382456	la vista	-0.28306
--1.394694	la temperatura	-0.2772422
--1.118142	la puerta	-0.4295713
--0.5118546	la inteligencia	-0.8847882
--1.081426	la lámpara	-0.4529922
--1.081426	la luz	-0.4529922
--1.081426	la sala	-0.28306
--0.233022	luego </s>
--0.237201	hace </s>
--0.3247549	frio esta	-0.2772422
--0.1431384	ti </s>
--0.7266627	un chiste	-0.5910921
--0.5020454	un microprocesador	-0.5366014
--0.5020454	un procesador	-0.5366014
--0.1272155	una broma	-0.5910921
--0.1272155	algo gracioso	-0.5910921
--0.233022	bote </s>
--0.233022	esqueleto </s>
--0.6015985	los microprocesadores	-0.2958165
--0.6015985	los procesadores	-0.2958165
--0.1366176	microprocesadores </s>
--0.1366176	procesadores </s>
--0.2885036	sirve la	-0.2906665
--0.233022	vista </s>
--0.237201	temperatura </s>
--0.237201	esta </s>
--0.09925019	broma </s>
--0.09925019	gracioso </s>
--0.2030625	microprocesador </s>
--0.8423829	microprocesador ?	-0.2958165
--0.2030625	procesador </s>
--0.8423829	procesador ?	-0.2958165
--0.4813494	puede hacer	-0.4632475
--0.4813494	puede lograr	-0.4632475
--0.2885036	usa la	-0.2906665
--0.2885036	utiliza la	-0.2906665
--0.1989676	puerta del	-0.4295713
--0.4257689	inteligencia artificial	-0.8271776
--0.3008301	inteligencia artificial?	-0.935644
--0.1817563	hacer con	-0.4632475
--0.1714722	lograr la	-0.4632475
--0.1069702	del garaje	-0.6557862
--0.1828247	lámpara de	-0.4529922
--0.1366176	? </s>
--0.05483993	artificial </s>
--0.04210987	artificial? </s>
--0.1714722	con la	-0.4632475
--0.08408557	garaje </s>
--0.1859156	luz del	-0.4529921
--0.461776	sala </s>
--0.5978518	sala de	-0.28306
--0.233022	estar </s>
+-2.002419	<s> cuál	-0.2784766
+-1.026075	<s> que	-0.3980281
+-1.724561	<s> está	-0.2676626
+-2.002419	<s> hola	-0.2784766
+-2.002419	<s> saluda	-0.2784766
+-1.990834	<s> preséntate	-0.2839992
+-1.990834	<s> ¿quién	-0.2839992
+-1.990834	<s> cuentales	-0.2839992
+-1.990834	<s> platica	-0.2839992
+-2.002419	<s> prepara	-0.2784766
+-2.002419	<s> haz	-0.2784766
+-1.93275	<s> café	-0.2784766
+-1.191485	<s> cuenta	-0.3898554
+-1.492858	<s> di	-0.2941343
+-1.492858	<s> echate	-0.2941343
+-1.869263	<s> chiste	-0.2941343
+-1.990834	<s> ¿puedes	-0.2839992
+-1.990834	<s> baila	-0.2839992
+-1.689804	<s> mueve	-0.4542618
+-1.492171	<s> ¿sabes	-0.5921863
+-1.12798	<s> ¿que	-0.4285914
+-1.492171	<s> explica	-0.5921863
+-1.492171	<s> habla	-0.5921863
+-1.492171	<s> ¿qué	-0.5921863
+-1.498817	<s> ¿para	-0.58725
+-1.377188	<s> qué	-0.680533
+-1.990834	<s> adios	-0.2839992
+-1.990834	<s> nos	-0.2839992
+-1.689804	<s> hasta	-0.2839992
+-1.990834	<s> enciende	-0.2839992
+-1.689804	<s> apagar	-0.4542618
+-1.990834	<s> encender	-0.2839992
+-0.3018335	cuál es	-0.2784766
+-0.3380786	que es	-0.8337959
+-1.454001	que calor	-0.2784766
+-1.454001	que tan	-0.2784766
+-1.454001	que tal	-0.2784766
+-1.100796	que se	-0.291213
+-1.1298	que hacen	-0.4618119
+-1.42752	que sirve	-0.291213
+-0.6356272	está abierta	-0.2676625
+-0.6356272	está cerrada	-0.2676625
+-0.2377604	hola </s>
+-0.2377604	saluda </s>
+-0.233779	preséntate </s>
+-0.3174646	¿quién eres?	-0.2839992
+-0.3083384	cuentales de	-0.2839992
+-0.3174646	platica acerca	-0.2839992
+-0.3209564	prepara café	-0.2784766
+-0.3209564	haz café	-0.2784766
+-0.1059966	café </s>
+-0.4953207	cuenta que	-0.5921863
+-0.9428813	cuenta un	-0.2941343
+-0.9905698	cuenta una	-0.2941343
+-0.9905698	cuenta algo	-0.2941343
+-0.7371212	di un	-0.2941343
+-0.773672	di una	-0.2941343
+-0.773672	di algo	-0.2941343
+-0.7371212	echate un	-0.2941343
+-0.773672	echate una	-0.2941343
+-0.773672	echate algo	-0.2941343
+-0.07791825	chiste </s>
+-0.3174646	¿puedes bailar?	-0.2839992
+-0.233779	baila </s>
+-0.1866973	mueve el	-0.2839992
+-0.1198747	¿sabes que	-0.5921863
+-0.9696889	¿que es	-0.291213
+-0.7344094	¿que son	-0.4705262
+-0.7293429	¿que se	-0.463982
+-0.7443399	¿que cosas	-0.463982
+-0.1198747	explica que	-0.5921863
+-0.1249489	habla de	-0.2944725
+-0.1210506	¿qué es	-0.390059
+-0.1214556	¿para que	-0.3861327
+-0.09905549	qué se	-0.680533
+-0.233779	adios </s>
+-0.3174646	nos vemos	-0.2839992
+-0.5777503	hasta la	-0.2839992
+-0.6172071	hasta luego	-0.2839992
+-1.271075	es la	-0.2784766
+-0.292829	es un	-0.7698924
+-0.5206527	es inteligencia	-0.5872503
+-0.3181211	calor hace	-0.2784766
+-0.3235277	tan frio	-0.2784766
+-0.3139035	abierta la	-0.2676625
+-0.3139035	cerrada la	-0.2676625
+-0.2972298	enciende la	-0.2839992
+-0.1770921	apagar la	-0.2839992
+-0.2972298	encender la	-0.2839992
+-0.2377604	tal </s>
+-0.233779	eres? </s>
+-0.8032608	de la	-0.4542618
+-0.8571898	de ti	-0.4542618
+-1.125836	de microprocesadores	-0.2960931
+-1.125836	de procesadores	-0.2960931
+-1.054056	de inteligencia	-0.291213
+-1.15822	de estar	-0.2839992
+-0.3083384	acerca de	-0.2839992
+-0.233779	bailar? </s>
+-0.6172071	el bote	-0.2839992
+-0.6172071	el esqueleto	-0.2839992
+-0.1768864	son los	-0.2960932
+-0.479717	se hace	-0.3548879
+-0.7735644	se puede	-0.2912131
+-1.079677	se usa	-0.291213
+-1.079677	se utiliza	-0.291213
+-0.1802341	cosas puede	-0.2912131
+-0.1813345	hacen los	-0.4618119
+-0.233779	vemos </s>
+-1.38281	la vista	-0.2839992
+-1.394396	la temperatura	-0.2784766
+-1.116537	la puerta	-0.4320362
+-0.5140377	la inteligencia	-0.8857618
+-1.08178	la lámpara	-0.4542618
+-1.08178	la luz	-0.4542618
+-1.08178	la sala	-0.2839992
+-0.233779	luego </s>
+-0.4976433	hace </s>
+-0.6042596	hace aquí	-0.2895989
+-0.8976658	hace en	-0.2895989
+-0.3235277	frio esta	-0.2784766
+-0.143425	ti </s>
+-0.7269689	un chiste	-0.5916749
+-0.5024279	un microprocesador	-0.5369979
+-0.5024279	un procesador	-0.5369979
+-0.127165	una broma	-0.5916749
+-0.127165	algo gracioso	-0.5916749
+-0.233779	bote </s>
+-0.233779	esqueleto </s>
+-0.8379855	los microprocesadores	-0.2960931
+-0.8379855	los procesadores	-0.2960931
+-0.5540247	los ingenieros	-0.461812
+-0.1372227	microprocesadores </s>
+-0.1372227	procesadores </s>
+-0.2902565	sirve la	-0.291213
+-0.233779	vista </s>
+-0.2377604	temperatura </s>
+-0.2377604	esta </s>
+-0.09961559	broma </s>
+-0.09961559	gracioso </s>
+-0.2036946	microprocesador </s>
+-0.842816	microprocesador ?	-0.2960931
+-0.2036946	procesador </s>
+-0.842816	procesador ?	-0.2960931
+-0.4812641	puede hacer	-0.463982
+-0.4812641	puede lograr	-0.463982
+-0.2902565	usa la	-0.291213
+-0.2902565	utiliza la	-0.291213
+-0.4612474	aquí </s>
+-0.6061089	aquí en	-0.2895989
+-0.1826618	ingenieros aqui	-0.2895989
+-0.1978338	puerta del	-0.4320362
+-0.4259227	inteligencia artificial	-0.8281305
+-0.300984	inteligencia artificial?	-0.9366336
+-0.1815217	hacer con	-0.463982
+-0.1722795	lograr la	-0.463982
+-0.4612474	aqui </s>
+-0.6061089	aqui en	-0.2895989
+-0.106482	del garaje	-0.6580458
+-0.1827486	lámpara de	-0.4542618
+-0.1372227	? </s>
+-0.05498146	artificial </s>
+-0.04221318	artificial? </s>
+-0.1722795	con la	-0.463982
+-0.1295571	en gdc	-0.5847985
+-0.08403078	garaje </s>
+-0.1855086	luz del	-0.4542618
+-0.1014062	gdc </s>
+-0.4637692	sala </s>
+-0.5991949	sala de	-0.2839992
+-0.233779	estar </s>
 
 \3-grams:
--0.1329794	<s> cuál es
--0.2853737	<s> que es
--0.9600925	<s> que calor
--0.9600925	<s> que tan
--0.9600925	<s> que tal
--0.4511794	<s> está abierta
--0.4511794	<s> está cerrada
--0.1091693	<s> hola </s>
--0.1091693	<s> saluda </s>
--0.1059004	<s> preséntate </s>
--0.137117	<s> ¿quién eres?
--0.1335925	<s> cuentales de
--0.137117	<s> platica acerca
--0.1405357	<s> prepara café
--0.1405357	<s> haz café
--0.05273904	<s> café </s>
--0.3699421	<s> cuenta que
--0.8361808	<s> cuenta un
--0.8525733	<s> cuenta una
--0.8525733	<s> cuenta algo
--0.5883085	<s> di un
--0.6026658	<s> di una
--0.6026658	<s> di algo
--0.5883085	<s> echate un
--0.6026658	<s> echate una
--0.6026658	<s> echate algo
--0.03774587	<s> chiste </s>
--0.137117	<s> ¿puedes bailar?
--0.1059004	<s> baila </s>
--0.05720393	<s> mueve el
--0.0277198	<s> ¿sabes que
--0.8871083	<s> ¿que es
--0.6001926	<s> ¿que son
--0.6091213	<s> ¿que se
--0.6106828	<s> ¿que cosas
--0.0277198	<s> explica que
--0.02869587	<s> habla de
--0.02779928	<s> ¿qué es
--0.02841579	<s> ¿para que
--0.1059004	<s> adios </s>
--0.137117	<s> nos vemos
--0.4220732	<s> hasta la
--0.4376531	<s> hasta luego
--0.1292483	<s> enciende la
--0.05438069	<s> apagar la
--0.1292483	<s> encender la
--0.3006196	cuál es la
--0.1882348	que es un
--0.489227	que es inteligencia
--0.1415316	que calor hace
--0.1415316	que tan frio
--0.1091693	que tal </s>
--0.4998855	que se usa
--0.4998855	que se utiliza
--0.124097	que sirve la
--0.1418347	está abierta la
--0.1418347	está cerrada la
--0.1059004	¿quién eres? </s>
--0.2586603	cuentales de ti
--0.1335925	platica acerca de
--0.05273904	prepara café </s>
--0.05273904	haz café </s>
--0.05748302	cuenta que es
--0.2313948	cuenta un chiste
--0.0600353	cuenta una broma
--0.0600353	cuenta algo gracioso
--0.2313948	di un chiste
--0.0600353	di una broma
--0.0600353	di algo gracioso
--0.2313948	echate un chiste
--0.0600353	echate una broma
--0.0600353	echate algo gracioso
--0.1059004	¿puedes bailar? </s>
--0.4376531	mueve el bote
--0.4376531	mueve el esqueleto
--0.05748302	¿sabes que es
--0.1920815	¿que es inteligencia
--0.05256045	¿que son los
--0.1225973	¿que se puede
--0.05401016	¿que cosas puede
--0.05748302	explica que es
--0.6914273	habla de microprocesadores
--0.6914273	habla de procesadores
--0.6835433	habla de inteligencia
--0.2174391	¿qué es un
--0.4984099	¿qué es inteligencia
--0.3691055	¿para que se
--0.6708226	¿para que sirve
--0.1059004	nos vemos </s>
--0.3006143	hasta la vista
--0.1059004	hasta luego </s>
--0.3070351	es la temperatura
--0.3292931	es un microprocesador
--0.3292931	es un procesador
--0.1459411	es inteligencia artificial
--0.5966816	es inteligencia artificial?
--0.1091693	calor hace </s>
--0.1415316	tan frio esta
--0.3017828	abierta la puerta
--0.3017828	cerrada la puerta
--0.2822627	enciende la lámpara
--0.5487638	apagar la lámpara
--0.5487638	apagar la luz
--0.2822627	encender la luz
--0.1695165	de la sala
--0.04524656	de ti </s>
--0.06377775	de microprocesadores </s>
--0.06377775	de procesadores </s>
--0.1674645	de inteligencia artificial
--0.1059004	de estar </s>
--0.2586603	acerca de ti
--0.1059004	el bote </s>
--0.1059004	el esqueleto </s>
--0.4275642	son los microprocesadores
--0.4275642	son los procesadores
--0.3840495	se puede hacer
--0.3840495	se puede lograr
--0.124097	se usa la
--0.124097	se utiliza la
--0.3840495	cosas puede hacer
--0.3840495	cosas puede lograr
--0.1059004	la vista </s>
--0.1091693	la temperatura </s>
--0.06383286	la puerta del
--0.02926276	la inteligencia artificial?
--0.0560473	la lámpara de
--0.0568586	la luz del
--0.3773781	la sala </s>
--0.4306403	la sala de
--0.1091693	frio esta </s>
--0.01862381	un chiste </s>
--0.1251844	un microprocesador </s>
--0.7360073	un microprocesador ?
--0.1251844	un procesador </s>
--0.7360073	un procesador ?
--0.02336628	una broma </s>
--0.02336628	algo gracioso </s>
--0.06377775	los microprocesadores </s>
--0.06377775	los procesadores </s>
--0.1901058	sirve la inteligencia
--0.06377775	microprocesador ? </s>
--0.06377775	procesador ? </s>
--0.05437942	puede hacer con
--0.05171649	puede lograr la
--0.1901058	usa la inteligencia
--0.1901058	utiliza la inteligencia
--0.03677579	puerta del garaje
--0.007738402	inteligencia artificial </s>
--0.004679427	inteligencia artificial? </s>
--0.05171649	hacer con la
--0.1181894	lograr la inteligencia
--0.01722481	del garaje </s>
--0.1525732	lámpara de la
--0.1181894	con la inteligencia
--0.03476561	luz del garaje
--0.2881439	sala de estar
+-0.1330116	<s> cuál es
+-0.3805225	<s> que es
+-1.065764	<s> que calor
+-1.065764	<s> que tan
+-1.065764	<s> que tal
+-0.741563	<s> que hacen
+-0.4497991	<s> está abierta
+-0.4497991	<s> está cerrada
+-0.1090362	<s> hola </s>
+-0.1090362	<s> saluda </s>
+-0.1059349	<s> preséntate </s>
+-0.1364711	<s> ¿quién eres?
+-0.1333212	<s> cuentales de
+-0.1364711	<s> platica acerca
+-0.1397427	<s> prepara café
+-0.1397427	<s> haz café
+-0.05259269	<s> café </s>
+-0.3698363	<s> cuenta que
+-0.8381862	<s> cuenta un
+-0.8528948	<s> cuenta una
+-0.8528948	<s> cuenta algo
+-0.5899735	<s> di un
+-0.6028528	<s> di una
+-0.6028528	<s> di algo
+-0.5899735	<s> echate un
+-0.6028528	<s> echate una
+-0.6028528	<s> echate algo
+-0.03783632	<s> chiste </s>
+-0.1364711	<s> ¿puedes bailar?
+-0.1059349	<s> baila </s>
+-0.05688511	<s> mueve el
+-0.02765251	<s> ¿sabes que
+-0.8894485	<s> ¿que es
+-0.6005606	<s> ¿que son
+-0.606332	<s> ¿que se
+-0.6104912	<s> ¿que cosas
+-0.02765251	<s> explica que
+-0.0286971	<s> habla de
+-0.02789546	<s> ¿qué es
+-0.02830949	<s> ¿para que
+-0.01888722	<s> qué se
+-0.1059349	<s> adios </s>
+-0.1364711	<s> nos vemos
+-0.4231003	<s> hasta la
+-0.4370593	<s> hasta luego
+-0.1294284	<s> enciende la
+-0.05436176	<s> apagar la
+-0.1294284	<s> encender la
+-0.2996759	cuál es la
+-0.1884608	que es un
+-0.488983	que es inteligencia
+-0.1387568	que calor hace
+-0.1406332	que tan frio
+-0.1090362	que tal </s>
+-0.5423373	que se usa
+-0.5423373	que se utiliza
+-0.05446257	que hacen los
+-0.1245293	que sirve la
+-0.1413726	está abierta la
+-0.1413726	está cerrada la
+-0.1059349	¿quién eres? </s>
+-0.2578654	cuentales de ti
+-0.1333212	platica acerca de
+-0.05259269	prepara café </s>
+-0.05259269	haz café </s>
+-0.06465941	cuenta que es
+-0.2311736	cuenta un chiste
+-0.05995625	cuenta una broma
+-0.05995625	cuenta algo gracioso
+-0.2311736	di un chiste
+-0.05995625	di una broma
+-0.05995625	di algo gracioso
+-0.2311736	echate un chiste
+-0.05995625	echate una broma
+-0.05995625	echate algo gracioso
+-0.1059349	¿puedes bailar? </s>
+-0.4370593	mueve el bote
+-0.4370593	mueve el esqueleto
+-0.06465941	¿sabes que es
+-0.1919331	¿que es inteligencia
+-0.05218608	¿que son los
+-0.1461207	¿que se puede
+-0.0538911	¿que cosas puede
+-0.06465941	explica que es
+-0.6917149	habla de microprocesadores
+-0.6917149	habla de procesadores
+-0.6851669	habla de inteligencia
+-0.21777	¿qué es un
+-0.4984153	¿qué es inteligencia
+-0.3713662	¿para que se
+-0.6743124	¿para que sirve
+-0.06526431	qué se hace
+-0.1059349	nos vemos </s>
+-0.2996942	hasta la vista
+-0.1059349	hasta luego </s>
+-0.3057572	es la temperatura
+-0.3293054	es un microprocesador
+-0.3293054	es un procesador
+-0.1458243	es inteligencia artificial
+-0.5970434	es inteligencia artificial?
+-0.1932799	calor hace </s>
+-0.1406332	tan frio esta
+-0.299854	abierta la puerta
+-0.299854	cerrada la puerta
+-0.2814339	enciende la lámpara
+-0.5480969	apagar la lámpara
+-0.5480969	apagar la luz
+-0.2814339	encender la luz
+-0.1689268	de la sala
+-0.04518772	de ti </s>
+-0.06399267	de microprocesadores </s>
+-0.06399267	de procesadores </s>
+-0.167251	de inteligencia artificial
+-0.1059349	de estar </s>
+-0.2578654	acerca de ti
+-0.1059349	el bote </s>
+-0.1059349	el esqueleto </s>
+-0.4940636	son los microprocesadores
+-0.4940636	son los procesadores
+-0.5528237	se hace </s>
+-0.4100269	se hace aquí
+-0.7088903	se hace en
+-0.3838996	se puede hacer
+-0.3838996	se puede lograr
+-0.1245293	se usa la
+-0.1245293	se utiliza la
+-0.3838996	cosas puede hacer
+-0.3838996	cosas puede lograr
+-0.1242872	hacen los ingenieros
+-0.1059349	la vista </s>
+-0.1090362	la temperatura </s>
+-0.0631367	la puerta del
+-0.02920569	la inteligencia artificial?
+-0.05585274	la lámpara de
+-0.05657507	la luz del
+-0.3780498	la sala </s>
+-0.4307886	la sala de
+-0.3759097	hace aquí </s>
+-0.4312407	hace aquí en
+-0.06168361	hace en gdc
+-0.1090362	frio esta </s>
+-0.01865879	un chiste </s>
+-0.1253111	un microprocesador </s>
+-0.7360704	un microprocesador ?
+-0.1253111	un procesador </s>
+-0.7360704	un procesador ?
+-0.02341262	una broma </s>
+-0.02341262	algo gracioso </s>
+-0.06399267	los microprocesadores </s>
+-0.06399267	los procesadores </s>
+-0.05480439	los ingenieros aqui
+-0.1903368	sirve la inteligencia
+-0.06399267	microprocesador ? </s>
+-0.06399267	procesador ? </s>
+-0.05422144	puede hacer con
+-0.05183404	puede lograr la
+-0.1903368	usa la inteligencia
+-0.1903368	utiliza la inteligencia
+-0.06168361	aquí en gdc
+-0.3759097	ingenieros aqui </s>
+-0.4312407	ingenieros aqui en
+-0.03640506	puerta del garaje
+-0.00774015	inteligencia artificial </s>
+-0.004679684	inteligencia artificial? </s>
+-0.05183404	hacer con la
+-0.1182621	lograr la inteligencia
+-0.06168361	aqui en gdc
+-0.01712332	del garaje </s>
+-0.1524768	lámpara de la
+-0.1182621	con la inteligencia
+-0.02418725	en gdc </s>
+-0.03451467	luz del garaje
+-0.2872444	sala de estar
 
 \end\
